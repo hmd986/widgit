@@ -6,3 +6,5 @@ found a couple of more config values that are needed
 Adding PROD  line
 
 Adding some additional lines
+
+feature 4 planning in progress
